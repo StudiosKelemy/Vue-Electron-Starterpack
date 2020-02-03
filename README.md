@@ -36,7 +36,7 @@ Clone this repository, install dependencies and run using either `dev`, `debug` 
 
 ```bash
 # Clone this repository
-git clone https://github.com/mubaidr/vue-electron
+git clone https://github.com/StudiosKelemy/Vue-Electron-Starterpack.git
 
 # change directory to cloned path
 cd vue-electron
